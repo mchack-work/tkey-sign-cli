@@ -1,4 +1,4 @@
-module github.com/tillitis/tkey-sign-cli
+module github.com/mchack-work/tkey-sign-cli
 
 go 1.20
 
